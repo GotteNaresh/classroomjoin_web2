@@ -39,6 +39,7 @@
     "@schematics/update": "^0.900.1",
     "@swimlane/ngx-charts": "^13.0.2",
     "@swimlane/ngx-datatable": "^16.0.3",
+    "@types/compression": "^1.7.0",
     "angular-archwizard": "^5.0.0",
     "angular-calendar": "^0.28.2",
     "angular-count-to": "0.0.3",
@@ -58,6 +59,7 @@
     "chartist": "^0.11.4",
     "chartjs-plugin-streaming": "^1.8.0",
     "classlist.js": "^1.1.20150312",
+    "compressible": "^2.0.18",
     "core-js": "^3.6.4",
     "date-fns": "^2.9.0",
     "feather-icons": "^4.26.0",
@@ -103,7 +105,7 @@
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1000.0",
+    "@angular-devkit/build-angular": "^0.1000.3",
     "@angular/cli": "^10.0.0",
     "@angular/compiler-cli": "~10.0.2",
     "@angular/language-service": "~10.0.2",
